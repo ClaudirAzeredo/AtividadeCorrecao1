@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AtividadeCorrecao</string>
+    <string name="label_input">Tipo de Transação</string>
+
+    <string-array name="tipo_de_transacao">
+            <item> Credito </item>
+            <item> Debito </item>
+    </string-array>
+
+
+</resources>
